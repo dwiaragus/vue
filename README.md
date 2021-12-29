@@ -47,7 +47,6 @@ Please make sure to update tests as appropriate.
 
 ## 👷‍♂️ Author
 <a href="https://github.com/dwiaragus">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41306493?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Dwi Aryati</b></sub></a> <a href="https://github.com/dwiaragus" title="Github">🚀</a>
 (mailto:agusdwiaryati33@gmail.com)
